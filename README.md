@@ -20,3 +20,18 @@ UnitPrice  : Unit price of the product<br>
 CustomerID : Unique identifier of the customer<br>
 Country    : Country where the transaction occurred<br>
 
+## Graph Used in Project
+1) Horizontal bar graph
+2) Worldmap
+3) Bubble Chart
+
+## Project's Plan
+1) Load the dataset into a Pandas DataFrame and display the first few rows to get an overview of the data.<br>
+2) Perform data cleaning by handling missing values, if any, and removing any redundant or unnecessary columns.<br>
+3) Explore the basic statistics of the dataset, including measures of central tendency and dispersion.<br>
+4) Perform data visualization to gain insights into the dataset. Generate appropriate plots, such as histograms, scatter plots, or bar plots, to visualize different aspects of the data.<br>
+5) Analyze the sales trends over time. Identify the busiest months and days of the week in terms of sales.<br>
+6) Explore the top-selling products and countries based on the quantity sold.<br>
+7) Identify any outliers or anomalies in the dataset and discuss their potential impact on the analysis.<br>
+8) Draw conclusions and summarize your findings from the exploratory data analysis.<br>
+
