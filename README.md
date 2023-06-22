@@ -35,3 +35,5 @@ Country    : Country where the transaction occurred<br>
 7) Identify any outliers or anomalies in the dataset and discuss their potential impact on the analysis.<br>
 8) Draw conclusions and summarize your findings from the exploratory data analysis.<br>
 
+PS: Deadline, monday, 26/6/2023
+
